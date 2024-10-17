@@ -18,12 +18,13 @@
 <node id="crashbandicoochy"/>
 <node id="r/rugbyunion"/>
 <node id="r/kpop"/>
-<node id="r/olympics"/>
 <node id="r/Patriots"/>
+<node id="r/olympics"/>
 <node id="r/nfl"/>
 <node id="r/nba"/>
 <node id="mongrelbifana"/>
 <node id="r/IndiaCricket"/>
+<node id="r/Stumpmicgold"/>
 <node id="FondantAggravating68"/>
 <node id="r/DeathrattleP**n"/>
 <node id="MedicalJello2"/>
@@ -40,8 +41,8 @@
 <node id="r/soccer"/>
 <node id="r/TwoSentenceHorror"/>
 <node id="r/notinteresting"/>
-<node id="r/Awww"/>
-<node id="r/hypotheticalsituation"/>
+<node id="r/pics"/>
+<node id="r/goodanimemes"/>
 <node id="Frod02000"/>
 <node id="r/newzealand"/>
 <node id="r/chch"/>
@@ -83,10 +84,10 @@
 <node id="r/springboks"/>
 <node id="r/beatlescirclejerk"/>
 <node id="MiachealFaraday"/>
-<node id="r/EnoughMuskSpam"/>
 <node id="r/CricketAus"/>
 <node id="r/WorldTestChampionship"/>
 <node id="r/cricketworldcup"/>
+<node id="r/PakCricket"/>
 <node id="Outside_Error_7355"/>
 <node id="r/ukpolitics"/>
 <node id="r/HousingUK"/>
@@ -101,8 +102,8 @@
 <node id="r/ElectricalEngineering"/>
 <node id="r/IndianHistory"/>
 <node id="r/ABCDesis"/>
-<node id="r/Buddhism"/>
 <node id="r/fragrance"/>
+<node id="r/Buddhism"/>
 <node id="Jack-sprAt1212"/>
 <node id="r/ThreeLions"/>
 <node id="r/psytrance"/>
@@ -120,7 +121,6 @@
 <node id="r/okZyox"/>
 <node id="r/WomensCricket"/>
 <node id="Upstairs-Farm7106"/>
-<node id="r/PakCricket"/>
 <node id="r/McLarenFormula1"/>
 <node id="r/dating_advice"/>
 <node id="niceguysdofinish1st"/>
@@ -129,6 +129,7 @@
 <node id="r/punjabimusic"/>
 <node id="r/TMKOC"/>
 <node id="Ok_Vegetable263"/>
+<node id="r/AskUK"/>
 <node id="r/footballmanagergames"/>
 <node id="r/Gamingcirclejerk"/>
 <node id="Merovech_II"/>
@@ -141,8 +142,8 @@
 <node id="r/VisitingIceland"/>
 <node id="Subject-Ordinary6922"/>
 <node id="r/AustralianPolitics"/>
-<node id="r/australian"/>
 <node id="r/unimelb"/>
+<node id="r/australian"/>
 <node id="r/rmit"/>
 <node id="One_Acanthaceae_1163"/>
 <node id="r/spotify"/>
@@ -237,13 +238,13 @@
   <data key="d0">10</data>
 </edge>
 <edge source="abettertomorrow47" target="r/Ben10">
-  <data key="d0">8</data>
+  <data key="d0">5</data>
 </edge>
 <edge source="Classymuch" target="r/Damnthatsinteresting">
   <data key="d0">21</data>
 </edge>
 <edge source="Classymuch" target="r/Monash">
-  <data key="d0">13</data>
+  <data key="d0">14</data>
 </edge>
 <edge source="Classymuch" target="r/MadeMeSmile">
   <data key="d0">5</data>
@@ -263,11 +264,11 @@
 <edge source="crashbandicoochy" target="r/kpop">
   <data key="d0">50</data>
 </edge>
-<edge source="crashbandicoochy" target="r/olympics">
-  <data key="d0">21</data>
-</edge>
 <edge source="crashbandicoochy" target="r/Patriots">
-  <data key="d0">19</data>
+  <data key="d0">20</data>
+</edge>
+<edge source="crashbandicoochy" target="r/olympics">
+  <data key="d0">20</data>
 </edge>
 <edge source="crashbandicoochy" target="r/nfl">
   <data key="d0">13</data>
@@ -276,10 +277,13 @@
   <data key="d0">10</data>
 </edge>
 <edge source="mongrelbifana" target="r/IndiaCricket">
-  <data key="d0">2</data>
+  <data key="d0">3</data>
+</edge>
+<edge source="mongrelbifana" target="r/Stumpmicgold">
+  <data key="d0">1</data>
 </edge>
 <edge source="FondantAggravating68" target="r/DeathrattleP**n">
-  <data key="d0">25</data>
+  <data key="d0">23</data>
 </edge>
 <edge source="MedicalJello2" target="r/SAcricket">
   <data key="d0">77</data>
@@ -315,18 +319,18 @@
   <data key="d0">36</data>
 </edge>
 <edge source="Tern_Larvidae-2424" target="r/TwoSentenceHorror">
-  <data key="d0">11</data>
+  <data key="d0">7</data>
 </edge>
 <edge source="Tern_Larvidae-2424" target="r/notinteresting">
-  <data key="d0">9</data>
+  <data key="d0">7</data>
 </edge>
 <edge source="Tern_Larvidae-2424" target="r/SAcricket">
-  <data key="d0">2</data>
+  <data key="d0">3</data>
 </edge>
-<edge source="Tern_Larvidae-2424" target="r/Awww">
+<edge source="Tern_Larvidae-2424" target="r/pics">
   <data key="d0">1</data>
 </edge>
-<edge source="Tern_Larvidae-2424" target="r/hypotheticalsituation">
+<edge source="Tern_Larvidae-2424" target="r/goodanimemes">
   <data key="d0">1</data>
 </edge>
 <edge source="Frod02000" target="r/rugbyunion">
@@ -351,7 +355,7 @@
   <data key="d0">107</data>
 </edge>
 <edge source="Wazflame" target="r/nba">
-  <data key="d0">96</data>
+  <data key="d0">98</data>
 </edge>
 <edge source="Wazflame" target="r/nfl">
   <data key="d0">52</data>
@@ -429,10 +433,10 @@
   <data key="d0">1</data>
 </edge>
 <edge source="rambo_zaki" target="r/reddevils">
-  <data key="d0">87</data>
+  <data key="d0">85</data>
 </edge>
 <edge source="rambo_zaki" target="r/soccer">
-  <data key="d0">15</data>
+  <data key="d0">14</data>
 </edge>
 <edge source="TheRealMarkChapman" target="r/rugbyunion">
   <data key="d0">100</data>
@@ -441,22 +445,16 @@
   <data key="d0">72</data>
 </edge>
 <edge source="TheRealMarkChapman" target="r/unpopularopinion">
-  <data key="d0">67</data>
+  <data key="d0">66</data>
 </edge>
 <edge source="TheRealMarkChapman" target="r/ufc">
-  <data key="d0">50</data>
+  <data key="d0">54</data>
 </edge>
 <edge source="TheRealMarkChapman" target="r/springboks">
   <data key="d0">39</data>
 </edge>
 <edge source="TheRealMarkChapman" target="r/beatlescirclejerk">
-  <data key="d0">37</data>
-</edge>
-<edge source="MiachealFaraday" target="r/EnoughMuskSpam">
-  <data key="d0">2</data>
-</edge>
-<edge source="MiachealFaraday" target="r/IndiaCricket">
-  <data key="d0">2</data>
+  <data key="d0">36</data>
 </edge>
 <edge source="MiachealFaraday" target="r/CricketAus">
   <data key="d0">1</data>
@@ -470,14 +468,17 @@
 <edge source="MiachealFaraday" target="r/CricketBuddies">
   <data key="d0">1</data>
 </edge>
+<edge source="MiachealFaraday" target="r/PakCricket">
+  <data key="d0">1</data>
+</edge>
 <edge source="Outside_Error_7355" target="r/rugbyunion">
-  <data key="d0">197</data>
+  <data key="d0">202</data>
 </edge>
 <edge source="Outside_Error_7355" target="r/ukpolitics">
-  <data key="d0">110</data>
+  <data key="d0">112</data>
 </edge>
 <edge source="Outside_Error_7355" target="r/HousingUK">
-  <data key="d0">40</data>
+  <data key="d0">41</data>
 </edge>
 <edge source="Outside_Error_7355" target="r/unitedkingdom">
   <data key="d0">34</data>
@@ -489,7 +490,7 @@
   <data key="d0">12</data>
 </edge>
 <edge source="SuperFaiz21" target="r/FantasyPL">
-  <data key="d0">191</data>
+  <data key="d0">192</data>
 </edge>
 <edge source="SuperFaiz21" target="r/reddevils">
   <data key="d0">80</data>
@@ -518,11 +519,11 @@
 <edge source="BigV95" target="r/ABCDesis">
   <data key="d0">19</data>
 </edge>
-<edge source="BigV95" target="r/Buddhism">
-  <data key="d0">13</data>
-</edge>
 <edge source="BigV95" target="r/fragrance">
   <data key="d0">12</data>
+</edge>
+<edge source="BigV95" target="r/Buddhism">
+  <data key="d0">11</data>
 </edge>
 <edge source="Jack-sprAt1212" target="r/soccer">
   <data key="d0">43</data>
@@ -543,7 +544,7 @@
   <data key="d0">4</data>
 </edge>
 <edge source="sellyme" target="r/formula1">
-  <data key="d0">430</data>
+  <data key="d0">432</data>
 </edge>
 <edge source="sellyme" target="r/2007scape">
   <data key="d0">223</data>
@@ -561,7 +562,7 @@
   <data key="d0">7</data>
 </edge>
 <edge source="dhun_mohan" target="r/SquaredCircle">
-  <data key="d0">47</data>
+  <data key="d0">39</data>
 </edge>
 <edge source="dhun_mohan" target="r/tennis">
   <data key="d0">14</data>
@@ -612,7 +613,7 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Ok_Vegetable263" target="r/CricketShitpost">
-  <data key="d0">4</data>
+  <data key="d0">5</data>
 </edge>
 <edge source="Ok_Vegetable263" target="r/DeathrattleP**n">
   <data key="d0">3</data>
@@ -620,35 +621,35 @@
 <edge source="Ok_Vegetable263" target="r/unitedkingdom">
   <data key="d0">3</data>
 </edge>
+<edge source="Ok_Vegetable263" target="r/AskUK">
+  <data key="d0">2</data>
+</edge>
 <edge source="Ok_Vegetable263" target="r/footballmanagergames">
   <data key="d0">2</data>
 </edge>
 <edge source="Ok_Vegetable263" target="r/Gamingcirclejerk">
   <data key="d0">2</data>
 </edge>
-<edge source="Ok_Vegetable263" target="r/EnglandCricket">
-  <data key="d0">2</data>
-</edge>
 <edge source="Merovech_II" target="r/soccer">
   <data key="d0">89</data>
 </edge>
 <edge source="Merovech_II" target="r/rugbyunion">
-  <data key="d0">78</data>
+  <data key="d0">79</data>
 </edge>
 <edge source="Merovech_II" target="r/tennis">
   <data key="d0">3</data>
 </edge>
 <edge source="_rickjames" target="r/soccer">
-  <data key="d0">76</data>
+  <data key="d0">78</data>
 </edge>
 <edge source="_rickjames" target="r/ukpolitics">
-  <data key="d0">60</data>
+  <data key="d0">62</data>
 </edge>
 <edge source="_rickjames" target="r/SquaredCircle">
   <data key="d0">30</data>
 </edge>
 <edge source="_rickjames" target="r/taskmaster">
-  <data key="d0">22</data>
+  <data key="d0">25</data>
 </edge>
 <edge source="_rickjames" target="r/CasualUK">
   <data key="d0">18</data>
@@ -675,18 +676,18 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Subject-Ordinary6922" target="r/AustralianPolitics">
-  <data key="d0">31</data>
-</edge>
-<edge source="Subject-Ordinary6922" target="r/australian">
-  <data key="d0">8</data>
+  <data key="d0">26</data>
 </edge>
 <edge source="Subject-Ordinary6922" target="r/unimelb">
+  <data key="d0">6</data>
+</edge>
+<edge source="Subject-Ordinary6922" target="r/australian">
+  <data key="d0">6</data>
+</edge>
+<edge source="Subject-Ordinary6922" target="r/Monash">
   <data key="d0">5</data>
 </edge>
 <edge source="Subject-Ordinary6922" target="r/cricketworldcup">
-  <data key="d0">4</data>
-</edge>
-<edge source="Subject-Ordinary6922" target="r/Monash">
   <data key="d0">4</data>
 </edge>
 <edge source="Subject-Ordinary6922" target="r/rmit">
@@ -747,13 +748,13 @@
   <data key="d0">5</data>
 </edge>
 <edge source="Ghostly_100" target="r/PakCricket">
-  <data key="d0">193</data>
+  <data key="d0">194</data>
 </edge>
 <edge source="Ghostly_100" target="r/ufc">
   <data key="d0">16</data>
 </edge>
 <edge source="Ghostly_100" target="r/askasia">
-  <data key="d0">4</data>
+  <data key="d0">5</data>
 </edge>
 <edge source="Ghostly_100" target="r/PakistaniFootball">
   <data key="d0">4</data>
@@ -786,7 +787,7 @@
   <data key="d0">37</data>
 </edge>
 <edge source="confused_brown_dude" target="r/circlejerknyc">
-  <data key="d0">26</data>
+  <data key="d0">25</data>
 </edge>
 <edge source="confused_brown_dude" target="r/whatcarshouldIbuy">
   <data key="d0">19</data>
@@ -795,7 +796,7 @@
   <data key="d0">1</data>
 </edge>
 <edge source="kiwirish" target="r/newzealand">
-  <data key="d0">229</data>
+  <data key="d0">230</data>
 </edge>
 <edge source="kiwirish" target="r/rugbyunion">
   <data key="d0">194</data>
@@ -813,7 +814,7 @@
   <data key="d0">20</data>
 </edge>
 <edge source="mondognarly_" target="r/CasualUK">
-  <data key="d0">153</data>
+  <data key="d0">155</data>
 </edge>
 <edge source="mondognarly_" target="r/offset">
   <data key="d0">20</data>
@@ -873,10 +874,10 @@
   <data key="d0">59</data>
 </edge>
 <edge source="NormalTraining5268" target="r/kuttichevuru">
-  <data key="d0">45</data>
+  <data key="d0">47</data>
 </edge>
 <edge source="NormalTraining5268" target="r/TwoXIndia">
-  <data key="d0">34</data>
+  <data key="d0">33</data>
 </edge>
 <edge source="NormalTraining5268" target="r/AskIndia">
   <data key="d0">28</data>
@@ -969,7 +970,7 @@
   <data key="d0">22</data>
 </edge>
 <edge source="ViolatingBadgers" target="r/DeathrattleP**n">
-  <data key="d0">20</data>
+  <data key="d0">21</data>
 </edge>
 <edge source="ViolatingBadgers" target="r/AskReddit">
   <data key="d0">20</data>
